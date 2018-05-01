@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">The Recipe</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <!--exit notification-->
+    <string name="press_again_exit_app">Press again to exit</string>
+    <string name="title_activity_login">login</string>
+    <style name="Confirm">Booking Confirmed!!</style>
+
+
+
+    <!-- Firebase messages -->
+    <string name="auth_failed">Failed to Authenticate</string>
+    <string name="auth_success">Authentication Success</string>
+
+
+    <!-- Firebase database fields -->
+    <string name="dbname_users">users</string>
+    <string name="dbname_user_account_settings">user_account_settings</string>
+
+
+    <string name="title_activity_book_out_time">book_out_time</string>
+</resources>

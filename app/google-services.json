@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "278200079299",
+    "firebase_url": "https://automated-parking-a0ea2.firebaseio.com",
+    "project_id": "automated-parking-a0ea2",
+    "storage_bucket": "automated-parking-a0ea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278200079299:android:c5b3c77b345262da",
+        "android_client_info": {
+          "package_name": "com.app.sample.recipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278200079299-ntetmqofo00iltngbc3qmtnjcdk2tjro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Mnu2O7iPF9giiLLCkcIs8uGPn4I3Ygc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

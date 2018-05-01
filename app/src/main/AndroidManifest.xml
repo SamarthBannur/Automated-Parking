@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.app.sample.recipe">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/placeholder"
+        android:label="Parking"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".login"
+            android:label="Parking"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ActivityCategoryDetails" />
+        <activity android:name=".ActivityRecipeDetails" />
+        <activity
+            android:name=".ActivityMain"
+            android:label="@string/title_activity_login"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".register" />
+        <activity android:name=".book" />
+        <activity android:name=".payment" />
+        <activity
+            android:name=".book_out_time"
+            android:label="@string/title_activity_book_out_time"
+            android:theme="@style/AppTheme"></activity>
+    </application>
+
+</manifest>

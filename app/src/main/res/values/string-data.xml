@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lorem_ipsum">PES University
+    100 Feet Ring Road,Banashankari Stage III, Bengaluru,Karnataka 560085</string>
+    <string name="short_lorem_ipsum">PES University
+    100 Feet Ring Road,Banashankari Stage III, Bengaluru,Karnataka 560085</string>
+    <string name="middle_lorem_ipsum">PES University
+    100 Feet Ring Road,Banashankari Stage III, Bengaluru,Karnataka 560085</string>
+    <string name="long_lorem_ipsum">
+        Duis tellus metus, elementum a lectus id, aliquet interdum mauris. Nam bibendum efficitur sollicitudin. Proin eleifend libero velit, nec fringilla dolor finibus quis. nMorbi eu libero pellentesque, rutrum metus quis, blandit est. Fusce bibendum accumsan nisi vulputate feugiat. In fermentum laoreet euismod. Praesent sem nisl, facilisis eget odio at, rhoncus scelerisque ipsum. Nulla orci dui, dignissim a risus ut, lobortis porttitor velit.
+        \n\nNulla id lectus metus. Maecenas a lorem in odio auctor facilisis non vitae nunc. Sed malesuada volutpat massa. Praesent sit amet lacinia augue, mollis tempor dolor.
+    </string>
+
+    <string name="Instruct">1.After the time limit (which you have provided) is reached, you will recieve a notification.\n
+    you can either renew the booked slot or you will have to remove your vehicle.\n\n
+    2. Failing to do either of these will lead to a penalty.\n\n
+    3. You will have to pay twice the half hourly fare and you will not be allowed  to use the application until you pay.\n</string>
+
+    <string name="title_nav_explore">Login</string>
+    <string name="title_nav_category">Areas</string>
+    <string name="title_nav_favorites">Favourites</string>
+
+    <string name="title_nav_setting">Settings</string>
+    <string name="title_nav_about">About</string>
+    <string name="title_nav_signout">Sign Out</string>
+
+
+    <!--CATEGORY DATA-->
+    <integer-array name="category_photos">
+        <item>@drawable/pes</item>
+        <item>@drawable/basavanagudi</item>
+        <item>@drawable/basavanagudi</item>
+        <item>@drawable/jayanagar</item>
+        <item>@drawable/basavanagudi</item>
+        <item>@drawable/jayanagar</item>
+    </integer-array>
+    <integer-array name="category_icon">
+        <item>@drawable/ic_clock</item>
+        <item>@drawable/ic_clock</item>
+        <item>@drawable/ic_clock</item>
+        <item>@drawable/ic_clock</item>
+        <item>@drawable/ic_clock</item>
+        <item>@drawable/ic_clock</item>
+    </integer-array>
+    <string-array name="category_names">
+        <item>PES College</item>
+        <item>Basavanagudi</item>
+        <item>Basavanagudi</item>
+        <item>Jayanagar</item>
+        <item>Basavanagudi</item>
+        <item>Jayanagar\</item>
+    </string-array>
+    <string-array name="category_recipes">
+        <item>09:45</item>
+        <item>16:55</item>
+        <item>Yesterday</item>
+        <item>11/4/2015</item>
+        <item>11/4/2015</item>
+        <item>11/2/2015</item>
+    </string-array>
+
+    <!--APPETIZERS DATA-->
+    <integer-array name="photos_appetizers">
+        <item>@drawable/parking1</item>
+        <item>@drawable/parking2</item>
+        <item>@drawable/parking3</item>
+        <item>@drawable/parking4</item>
+        <item>@drawable/parking5</item>
+    </integer-array>
+    <string-array name="appetizers_names">
+        <item>Parking place 2</item>
+        <item>Parking place 3</item>
+        <item>Parking place 1</item>
+        <item>Parking place 5</item>
+        <item>Parking place 4</item>
+    </string-array>
+    <string-array name="appetizers_duration">
+        <item>5 min away</item>
+        <item>10 min away</item>
+        <item>7 min away</item>
+        <item>9 min away</item>
+        <item>11 min away</item>
+    </string-array>
+
+    <!--MAIN DISH DATA-->
+    <integer-array name="photos_main_dish">
+        <item>@drawable/parking1</item>
+        <item>@drawable/parking2</item>
+        <item>@drawable/parking3</item>
+        <item>@drawable/parking4</item>
+        <item>@drawable/parking5</item>
+    </integer-array>
+    <string-array name="main_dish_names">
+        <item>park place a</item>
+        <item>park place b</item>
+        <item>park place c</item>
+        <item>park place d</item>
+        <item>park place e</item>
+    </string-array>
+    <string-array name="main_dish_duration">
+        <item>5 min away</item>
+        <item>10 min away</item>
+        <item>7 min away</item>
+        <item>9 min away</item>
+        <item>11 min away</item>
+    </string-array>
+
+    <!-- SALADS DATA-->
+    <integer-array name="photos_salads">
+        <item>@drawable/parking1</item>
+        <item>@drawable/parking2</item>
+        <item>@drawable/parking3</item>
+        <item>@drawable/parking4</item>
+        <item>@drawable/parking5</item>
+        <item>@drawable/parking5</item>
+    </integer-array>
+    <string-array name="salads_names">
+        <item>park place1</item>
+        <item>park place2</item>
+        <item>park place3</item>
+        <item>park place3</item>
+        <item>park place4</item>
+        <item>park place5</item>
+    </string-array>
+    <string-array name="salads_duration">
+        <item>5 min away</item>
+        <item>10 min away</item>
+        <item>7 min away</item>
+        <item>9 min away</item>
+        <item>11 min away</item>
+        <item>11 min away</item>
+    </string-array>
+
+    <!--DRINKS DATA-->
+    <integer-array name="photos_drinks">
+        <item>@drawable/parking1</item>
+        <item>@drawable/parking2</item>
+        <item>@drawable/parking3</item>
+        <item>@drawable/parking4</item>
+        <item>@drawable/parking5</item>
+        <item>@drawable/parking5</item>
+    </integer-array>
+    <string-array name="drinks_names">
+        <item>park place 1</item>
+        <item>park place 2</item>
+        <item>park place 3</item>
+        <item>park place 3</item>
+        <item>park place 4</item>
+        <item>park place 5</item>
+    </string-array>
+    <string-array name="drinks_duration">
+        <item>5 min away</item>
+        <item>10 min away</item>
+        <item>7 min away</item>
+        <item>9 min away</item>
+        <item>11 min away</item>
+        <item>11 min away</item>
+    </string-array>
+
+    <!--SIDE DISH DATA-->
+    <integer-array name="photos_side_dish">
+        <item>@drawable/parking1</item>
+        <item>@drawable/parking2</item>
+        <item>@drawable/parking4</item>
+        <item>@drawable/parking5</item>
+        <item>@drawable/parking3</item>
+    </integer-array>
+    <string-array name="side_dish_names">
+        <item>place1</item>
+        <item>place2</item>
+        <item>place3</item>
+        <item>place4</item>
+        <item>place5</item>
+    </string-array>
+    <string-array name="side_dish_duration">
+        <item>5 min away</item>
+        <item>10 min away</item>
+        <item>7 min away</item>
+        <item>9 min away</item>
+        <item>11 min away</item>
+    </string-array>
+
+    <!--DESSERT DATA-->
+    <integer-array name="photos_dessert">
+        <item>@drawable/parking1</item>
+        <item>@drawable/parking2</item>
+        <item>@drawable/parking3</item>
+        <item>@drawable/parking4</item>
+        <item>@drawable/parking5</item>
+    </integer-array>
+    <string-array name="dessert_names">
+        <item>parking1</item>
+        <item>parking2</item>
+        <item>parking3</item>
+        <item>parking4</item>
+        <item>parking5</item>
+    </string-array>
+    <string-array name="dessert_duration">
+        <item>5 min away</item>
+        <item>10 min away</item>
+        <item>7 min away</item>
+        <item>9 min away</item>
+        <item>11 min away</item>
+    </string-array>
+
+
+    <!-- RECIPES DATA-->
+    <string-array name="ingredients">
+
+    </string-array>
+    <string name="Booking">
+        <![CDATA[
+        <p>
+			<b>1</b> In a Dutch oven or other large, lidded pot, melt the butter over medium-high heat. Add enough pieces of the beef to sear in the pot without crowding.
+		</p> </br>
+        <p>
+			<b>2</b> When all the beef has browned, add the onions. Sprinkle a little salt over the onions as they cook. Lower the heat to medium and cook the onions until they begin to brown, <b>5-6 minutes</b>.
+		</p> </br>
+        <p>
+			<b>3</b> When the onions have lightly browned, mix in the mushrooms and increase the heat to high. Cook the mushrooms until they release their water, about <b>2-3 minutes</b>.
+		</p> </br>
+        <p>
+			<b>4</b> Add the beef back to the pot and sprinkle with marjoram. <b>Add 1 cup</b> of the stock and use the wooden spoon to scrape any browned bits off the bottom of the pot. Add the rest of the stock and water and bring to a simmer.
+		</p> </br>
+        <p>
+		<b>5</b> Add the barley, celery root and carrots, stir well and recover the pot. Simmer gently until the barley and celery root are tender, between 40 minutes and an hour.
+		</p>
+        ]]>
+    </string>
+</resources>
